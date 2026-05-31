@@ -1,6 +1,6 @@
 # Arduino Simple 2-Axis Robot Hand
 
-An accessible, responsive, dual-axis robotic mechanical hand driven by an Arduino microcontroller. This project utilizes a heavy-duty stepper motor to handle 360-degree shoulder rotation and an agile micro-servo to manage precise vertical (up/down) articulation, all controlled via an analog 2-axis joystick module.
+An accessible, responsive, dual-axis robotic mechanical hand driven by an Arduino Uno microcontroller. This project utilizes a heavy-duty stepper motor to handle 360-degree shoulder rotation and an agile micro-servo to manage precise vertical (up/down) articulation, all controlled via an analog 2-axis joystick module.
 
 ---
 
